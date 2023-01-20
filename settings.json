@@ -1,0 +1,13 @@
+{
+    "name": "BuyAssets",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder"
+    }
+}
